@@ -1,2 +1,1 @@
 # terminal-time
-echo $(date)
