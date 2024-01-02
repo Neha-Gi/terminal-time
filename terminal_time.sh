@@ -4,4 +4,4 @@
 echo $(date)
 
 # Add welcome message
-echo "Welcome Darshil"
+echo "Welcome $(whoami)"
